@@ -1,0 +1,56 @@
+charset,UTF-8
+
+//シェル一式のライセンスは以下のようになります。
+//https://creativecommons.org/licenses/by-sa/4.0/
+
+// オリジナル制作元:
+// しもふみ 様
+// url: https://ukadon.shillest.net/@Shimofumi
+
+// しもふみ様制作「ヘイミル・ロゥ」に同梱されているシェル、
+// 「The Keys to December」から、
+// 画像の差し替え、パラメータの変更を行ないました。
+
+craftman,tukinami seika
+craftmanurl,https://github.com/tukinami/small_HE-Chan_sama/
+craftmanw,月波 清火
+homeurl,https://raw.githubusercontent.com/tukinami/small_HE-Chan_sama/main/
+
+name,ちいさなへーちゃんさま
+type,shell
+
+sakura.balloon.alignment,none
+kero.balloon.alignment,none
+
+sakura.seriko.alignmenttodesktop,free
+kero.seriko.alignmenttodesktop,free
+
+sakura.balloon.offsetx,0
+sakura.balloon.offsety,0
+
+kero.balloon.offsetx,0
+kero.balloon.offsety,0
+
+menu.background.bitmap.filename,menu_background.png
+menu.foreground.bitmap.filename,menu_foreground.png
+menu.sidebar.bitmap.filename,menu_sidebar.png
+
+menu.background.font.color.r,96
+menu.background.font.color.g,96
+menu.background.font.color.b,160
+
+menu.foreground.font.color.r,255
+menu.foreground.font.color.g,255
+menu.foreground.font.color.b,255
+
+menu.disable.font.color.r,192
+menu.disable.font.color.g,192
+menu.disable.font.color.b,255
+
+menu.separator.color.r,96
+menu.separator.color.g,96
+menu.separator.color.b,160
+
+menu.background.alignment,lefttop
+menu.foreground.alignment,lefttop
+menu.sidebar.alignment,top
